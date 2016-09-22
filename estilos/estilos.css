@@ -1,0 +1,78 @@
+*{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+body{
+	background: #2E64FE;
+}
+p{
+	text-align: center;
+	font-family: arial;
+	font-size: 18px;
+}
+#contenedor{
+	background: #2E64FE;
+	height: 800px;
+	width: 780px;
+	margin-right: auto;
+	margin-left: auto;
+}
+header,#menu1,#banner,#introduccion,#noticias,#pie{
+	background: #FF8000;
+	width: 780px;
+	height: 150px;
+	text-align: center;
+}
+#menu1{
+	background: #FFFFFF;
+	height: 180px;
+	border-image-repeat: 12px
+	text-align: center;
+
+}
+#banner{
+	background: #F2F464;
+	height: 180px;
+}
+
+#introduccion{
+	background: #64F494;
+	height: 140px;
+	width: 760px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	text-align: left;
+	font-family: arial;
+	font-size: 30px;
+}
+#noticias{
+	background: #FF8000;
+	height: 125px;
+	width: 760px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	font-family: arial;
+	font-size: 16px;
+	text-align: left;
+	}
+footer{
+	background: #2E64FE;
+	width: 760px;
+	height: 100px;
+	position:all;
+	
+}
+footer p {
+	
+	font-family: arial;
+	font-size: 10px;
+	text-align: center;
+	float: none;
+}
+
+
+
